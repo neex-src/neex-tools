@@ -1,0 +1,20 @@
+[submodule "reus"]
+	path = reus
+	url = ../reus.git
+	branch = main
+[submodule "deliberator"]
+	path = deliberator
+	url = ../deliberator.git
+	branch = main
+[submodule "inliner"]
+	path = inliner
+	url = ../inliner.git
+	branch = main
+[submodule "sling"]
+	path = sling
+	url = ../sling.git
+	branch = main
+[submodule "devkit"]
+	path = devkit
+	url = ../devkit.git
+	branch = main
